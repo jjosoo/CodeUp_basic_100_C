@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    char string[2001];
-    fgets(string,2000,stdin);
-    printf("%s",string);
+    float fnum;
+    scanf("%f",&fnum);
+    printf("%d",funm);
+    printf("%f.6",fuum);
 }
